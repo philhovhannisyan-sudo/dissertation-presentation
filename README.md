@@ -5,7 +5,7 @@
 
 **1. Дизайн-система (CSS):**
 Используй стили из файла: 
-https://raw.githubusercontent.com/philhovhannisyan-sudo/dissertation-presentation/main/style.css
+https://github.com/philhovhannisyan-sudo/dissertation-presentation/blob/main/style.css
 *   Основные цвета: Фон #FCFCF9, Текст #13343B, Акцент #21808D.
 *   Шрифты: FKGroteskNeue, Inter.
 
