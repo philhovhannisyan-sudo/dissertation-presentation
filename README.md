@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/philhovhannisyan-sudo/dissertation-presentatio
 
 **2. Логика и Графики (JS):**
 Используй настройки Chart.js из файла:
-https://raw.githubusercontent.com/philhovhannisyan-sudo/dissertation-presentation/main/app1.js
+https://raw.githubusercontent.com/philhovhannisyan-sudo/dissertation-presentation/main/app.js
 *   Цвета графиков: #1FB8CD (Контроль/Без ФП), #FFC185 (Опыт 1), #B4413C (Опыт 2).
 *   Типы: Bar (столбчатые) и Line (линейные) с `legend: {position: 'top'}`.
 
