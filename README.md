@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/philhovhannisyan-sudo/dissertation-presentatio
 
 **3. Структура слайда (HTML):**
 Бери за основу разметку из:
-https://raw.githubusercontent.com/philhovhannisyan-sudo/dissertation-presentation/main/index_dis.html
+https://github.com/philhovhannisyan-sudo/dissertation-presentation/blob/main/index_dis.html
 *   Класс контейнера: `.slide`
 *   Навигация: кнопки `#prevBtn`, `#nextBtn`
 *   Таблицы: Академический стиль, ширина 100%.
